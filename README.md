@@ -21,5 +21,10 @@
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=dark" />
 </p>
 
+<!-- GitHub Issues Badge -->
+<p align="center">
+  ![Open Issues](https://img.shields.io/github/issues/LalitNarayanYadav?style=flat-square)
+</p>
+
 
 
