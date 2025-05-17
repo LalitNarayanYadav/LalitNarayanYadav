@@ -15,7 +15,7 @@
 </br>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LalitNarayanYadav&theme=dark&icon==true" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LalitNarayanYadav&theme=dark" />
 </p>
 <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=dark" />
