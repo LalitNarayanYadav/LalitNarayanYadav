@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/LalitNarayanYadav?tab=follower">
-    <img src="https://img.shields.io/github/followers/LalitNarayanYadav?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/LalitNarayanYadav?tab=followers">
+    <img src="https://img.shields.io/github/followers/LalitNarayanYadav?label=Follower&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://instagram.com/narayan_yadav_lalit20">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
