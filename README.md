@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/LalitNarayanYadav?tab=followers">
+  <a href="https://github.com/LalitNarayanYadav?tab=follower">
     <img src="https://img.shields.io/github/followers/LalitNarayanYadav?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://instagram.com/narayan_yadav_lalit20">
