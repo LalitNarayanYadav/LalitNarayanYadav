@@ -50,3 +50,9 @@ Here are some of my highlight works:
 <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=dark" />
 </p>
+
+### 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=react-dark&area=true&hide_border=true" />
+</p>
