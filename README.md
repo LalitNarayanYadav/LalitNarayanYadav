@@ -2,7 +2,7 @@
 
 🎓 ECE Undergrad | 💻 Tech Enthusiast | ⚙️ Embedded Systems | 🌐 Web Developer
 
-🔬 Currently exploring the intersection of electronics and software through real-world projects in VLSI, GCP, and Web Development. Passionate about building practical, efficient systems—from shift registers to full-stack apps.
+🔬 Currently exploring the intersection of electronics and software through real-world projects in VLSI, GCP, and Web Development. Passionate about building practical, efficient systems, from shift registers to full-stack apps.
 
 ---
 
