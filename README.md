@@ -22,7 +22,7 @@ Here are some of my highlight works:
 -  [Weather Forecast Web App](https://github.com/LalitNarayanYadav/weather-app) – Built using HTML/CSS/JS
 -  [Universal Shift Register PCB](https://github.com/LalitNarayanYadav/universal-shift-register) – Designed and fabricated
 
-➡️ *More in my pinned repos!*
+➡️ *More in my pinned repos!!!*
 
 ---
 
