@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Lalit Narayan Yadav!
+## 👋 Hi, I'm Lalit Narayan Yadav!
 
 🎓 ECE Undergrad | 💻 Tech Enthusiast | ⚙️ Embedded Systems | 🌐 Web Developer
 
