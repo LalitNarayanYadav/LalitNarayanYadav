@@ -1,58 +1,129 @@
-## 👋 Hi, I'm Lalit Narayan Yadav!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Lalit Narayan Yadav
 
-🎓 ECE Undergrad | 💻 Tech Enthusiast | ⚙️ Embedded Systems | 🌐 Web Developer
+<div align="center">
 
-🔬 Currently exploring the intersection of electronics and software through real-world projects in VLSI, GCP, and Web Development. Passionate about building practical, efficient systems, from shift registers to full-stack apps.
+### Electronics • Embedded Systems • Semiconductor Design • Open Source
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=ECE+Undergraduate+%7C+Systems+Engineer;Embedded+Systems+%7C+CMOS+%7C+Signal+Processing;Open+Source+Contributor+%7C+Research+Enthusiast;Building+at+the+intersection+of+Hardware+and+Software" />
 
-### 🚀 About Me
--  B.Tech in Electronics and Communication Engineering (2022–2026)
--  Strong in **C**, **C++**, **Java**, **HTML/CSS/JS**, MATLAB, and **Google Cloud**
--  Interested in **Embedded Systems**, **VLSI Design**, **Cloud Computing**, and **Open Source**
--  Building: CMOS digital designs, data dashboards, GCP apps, and Simulink models
--  Currently contributing to:
-  - [p5.js](https://github.com/processing/p5.js) – creative coding library
-  - [stdlib-js](https://github.com/stdlib-js/stdlib) – standard library for JavaScript
----
-
-### 📌 Featured Projects
-Here are some of my highlight works:
--  [CMOS Inverter Design](https://github.com/LalitNarayanYadav/cmos-inverter) – Simulated using Cadence, with waveform results
--  [Weather Forecast Web App](https://github.com/LalitNarayanYadav/weather-app) – Built using HTML/CSS/JS
--  [Universal Shift Register PCB](https://github.com/LalitNarayanYadav/universal-shift-register) – Designed and fabricated
-
-➡️ *More in my pinned repos!!!*
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 About Me
+
+- 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
+- ⚡ Interested in **Embedded Systems, Semiconductor Design, RF Systems, and Signal Processing**
+- 🧠 Exploring the intersection of **electronics, communication systems, and software**
+- 🔬 Presented research at **IEEE DICCT 2026**
+- 🛠️ Hands-on experience with:
+  - CMOS circuit design
+  - MATLAB/Simulink simulations
+  - PCB implementation
+  - Sensor interfacing & embedded systems
+- 🌱 Currently learning:
+  - RF systems
+  - Hardware acceleration
+  - System-level design
+  - Open-source graphics systems
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" />
+
+### Core Engineering
+<p>
+MATLAB • Simulink • Cadence Virtuoso • ANSYS • Embedded Systems • CMOS Design
+</p>
+
+</div>
+
+---
+
+## 🔬 Featured Projects
+
+### ⚡ Chaos-Based Secure Communication System
+- Nonlinear secure communication system using chaotic synchronization
+- Simulated using MATLAB/Simulink
+- Presented at IEEE DICCT 2026
+
+---
+
+### 🧠 CMOS Full Adder Design
+- Transistor-level CMOS design using Cadence Virtuoso
+- Schematic, layout, and delay/power analysis
+- Focused on digital VLSI fundamentals
+
+---
+
+### 📡 Radar Signal Processing Simulation
+- Simulated pulse radar signal transmission and target detection
+- Implemented matched filtering and time-delay analysis
+- Explored signal processing concepts for RF systems
+
+---
+
+### 🔧 Universal Shift Register PCB
+- Designed and implemented digital hardware on PCB
+- Performed hardware debugging and functional verification
+
+---
+
+## 🌍 Open Source Contributions
+
+### ✨ p5.js / p5.strands
+Contributing to graphics systems, feature implementation, debugging, and rendering workflows in collaborative open-source environments.
+
+### ⚙️ stdlib-js
+Contributing to JavaScript standard library ecosystem and developer tooling.
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/LalitNarayanYadav?tab=followers">
-    <img src="https://img.shields.io/github/followers/LalitNarayanYadav?label=Follower&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://instagram.com/narayan_yadav_lalit20">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/lalit-narayan-yadav-aa86a9274">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/LalitNarayanYadav">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=dark" />
-</p>
+### ⚡ Building systems that connect hardware, software, and research.
 
-###  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=react-dark&area=true&hide_border=true" />
-</p>
+</div>
