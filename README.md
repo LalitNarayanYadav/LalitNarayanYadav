@@ -1,129 +1,259 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Lalit Narayan Yadav
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"> Hi, I'm Lalit Narayan Yadav
 
 <div align="center">
 
-### Electronics • Embedded Systems • Semiconductor Design • Open Source
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Lalit%20Narayan%20Yadav&fontAlign=50&fontAlignY=38&fontSize=42&animation=fadeIn&desc=Electronics%20Engineer%20|%20IEEE%20Published%20Author%20|%20Open%20Source%20Contributor&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=ECE+Undergraduate+%7C+Systems+Engineer;Embedded+Systems+%7C+CMOS+%7C+Signal+Processing;Open+Source+Contributor+%7C+Research+Enthusiast;Building+at+the+intersection+of+Hardware+and+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;IEEE+Published+Author;Embedded+Systems+Developer;Semiconductor+Design+Enthusiast;Open+Source+Contributor;Building+Hardware+%2B+Software" />
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
-- ⚡ Interested in **Embedded Systems, Semiconductor Design, RF Systems, and Signal Processing**
-- 🧠 Exploring the intersection of **electronics, communication systems, and software**
-- 📄 IEEE Published Author | **A Nonlinear Chaos-Driven Cryptosystem for Biomedical Data Security** ([DOI](https://doi.org/10.1109/DICCT69099.2026.11535994))
-- 🛠️ Hands-on experience with:
-  - CMOS circuit design
-  - MATLAB/Simulink simulationsC
-  - PCB implementation
-  - Sensor interfacing & embedded systems
-- 🌱 Currently learning:
-  - RF systems
-  - Hardware acceleration
-  - System-level design
-  - Open-source graphics systems
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" />
-
-### Core Engineering
 <p>
-MATLAB • Simulink • Cadence Virtuoso • ANSYS • Embedded Systems • CMOS Design
+<img src="https://komarev.com/ghpvc/?username=LalitNarayanYadav&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/LalitNarayanYadav?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/LalitNarayanYadav?style=for-the-badge&logo=github"/>
 </p>
 
 </div>
 
 ---
 
-## 🔬 Featured Projects
+# 🚀 About Me
 
-### ⚡ Chaos-Based Secure Communication System
-- Nonlinear secure communication system using chaotic synchronization
-- Simulated using MATLAB/Simulink
-- Presented at IEEE DICCT 2026
+🎓 **B.Tech in Electronics & Communication Engineering (2022–2026)**
 
----
+💡 Passionate about designing intelligent hardware systems that bridge the gap between **electronics**, **embedded software**, and **semiconductor technologies**.
 
-### 🧠 CMOS Full Adder Design
-- Transistor-level CMOS design using Cadence Virtuoso
-- Schematic, layout, and delay/power analysis
-- Focused on digital VLSI fundamentals
+🔬 My interests include
 
----
+- Embedded Systems
+- Semiconductor Design
+- CMOS Digital Design
+- RF & Communication Systems
+- Signal Processing
+- Hardware Acceleration
+- Open Source Development
 
-### 📡 Radar Signal Processing Simulation
-- Simulated pulse radar signal transmission and target detection
-- Implemented matched filtering and time-delay analysis
-- Explored signal processing concepts for RF systems
+📄 **IEEE Published Author**
 
----
+**A Nonlinear Chaos-Driven Cryptosystem for Biomedical Data Security**
 
-### 🔧 Universal Shift Register PCB
-- Designed and implemented digital hardware on PCB
-- Performed hardware debugging and functional verification
+📍 IEEE DICCT 2026
+
+🔗 https://doi.org/10.1109/DICCT69099.2026.11535994
 
 ---
 
-## 🌍 Open Source Contributions
+# 🏆 Highlights
 
-### ✨ p5.js / p5.strands
-Contributing to graphics systems, feature implementation, debugging, and rendering workflows in collaborative open-source environments.
-
-### ⚙️ stdlib-js
-Contributing to JavaScript standard library ecosystem and developer tooling.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+- 📄 IEEE Published Research Author
+- 🌍 Active Open Source Contributor
+- ⚡ Contributor to **p5.js / p5.strands**
+- ⚙️ Contributor to **stdlib-js**
+- 💻 Experience with PCB Design & CMOS Circuits
+- 🔬 MATLAB/Simulink Simulation Projects
+- 📡 Communication Systems & RF Enthusiast
 
 ---
 
-## 🤝 Connect With Me
+# 💻 Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/lalit-narayan-yadav-aa86a9274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/LalitNarayanYadav">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="mailto:narayanlalit710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino"/>
+
+## Engineering Tools
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simulink-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANSYS-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CMOS_Design-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🔬 Featured Projects
+
+## 🔐 Chaos-Based Secure Communication System
+
+- Designed a nonlinear secure communication system using chaotic synchronization
+- MATLAB/Simulink implementation
+- Research published at IEEE DICCT 2026
+
+---
+
+## ⚡ CMOS Full Adder Design
+
+- Transistor-level CMOS implementation
+- Cadence Virtuoso schematic and layout
+- Delay and power optimization
+- Digital VLSI Design
+
+---
+
+## 📡 Radar Signal Processing
+
+- Pulse radar simulation
+- Target detection
+- Matched filtering
+- Time-delay estimation
+- RF signal processing concepts
+
+---
+
+## 🔧 Universal Shift Register PCB
+
+- PCB Design
+- Hardware implementation
+- Functional verification
+- Digital Electronics
+
+---
+
+## 🌦 Weather Forecast Web App
+
+- HTML
+- CSS
+- JavaScript
+- API Integration
+
+---
+
+# 🌍 Open Source
+
+## p5.js / p5.strands
+
+Contributing to
+
+- Graphics Rendering
+- Feature Development
+- Documentation
+- Bug Fixes
+- Web Graphics
+
+---
+
+## stdlib-js
+
+Contributing to
+
+- JavaScript Standard Library
+- Documentation
+- Testing
+- Developer Tooling
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=LalitNarayanYadav&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LalitNarayanYadav&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions using **Platane/snk** to make this animation work.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LalitNarayanYadav/LalitNarayanYadav/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 My Journey
+
+```text
+2022 ───────── Started B.Tech (ECE)
+
+2024 ───────── Open Source Journey
+
+2025 ───────── Major Contributions to p5.js
+
+2026 ───────── IEEE Published Author
+
+Now ───────── Building Hardware + Software
+```
+
+---
+
+# 📚 Currently Learning
+
+- RF Systems
+- Hardware Acceleration
+- System-Level Design
+- Embedded Linux
+- Semiconductor Devices
+- High Performance Computing
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/lalit-narayan-yadav-aa86a9274">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:narayanlalit710@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LalitNarayanYadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building systems that connect hardware, software, and research.
+### 💡 *"Building systems where silicon meets software."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
