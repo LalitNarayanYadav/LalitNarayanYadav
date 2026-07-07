@@ -186,21 +186,6 @@ Contributing to
 
 ---
 
-# 🚀 My Journey
-
-```text
-2022 ───────── Started B.Tech (ECE)
-
-2024 ───────── Open Source Journey
-
-2025 ───────── Major Contributions to p5.js
-
-2026 ───────── IEEE Published Author
-
-Now ───────── Building Hardware + Software
-```
-
----
 
 # 📚 Currently Learning
 
