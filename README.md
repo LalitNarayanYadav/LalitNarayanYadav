@@ -15,10 +15,10 @@
 - 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
 - ⚡ Interested in **Embedded Systems, Semiconductor Design, RF Systems, and Signal Processing**
 - 🧠 Exploring the intersection of **electronics, communication systems, and software**
-- 🔬 Presented research at **IEEE DICCT 2026**
+- 📄 IEEE Published Author | **A Nonlinear Chaos-Driven Cryptosystem for Biomedical Data Security** ([DOI](https://doi.org/10.1109/DICCT69099.2026.11535994))
 - 🛠️ Hands-on experience with:
   - CMOS circuit design
-  - MATLAB/Simulink simulations
+  - MATLAB/Simulink simulationsC
   - PCB implementation
   - Sensor interfacing & embedded systems
 - 🌱 Currently learning:
