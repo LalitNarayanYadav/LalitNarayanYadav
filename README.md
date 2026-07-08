@@ -166,7 +166,7 @@ Contributing to
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions using **Platane/snk** to make this animation work.
+
 
 <div align="center">
 
