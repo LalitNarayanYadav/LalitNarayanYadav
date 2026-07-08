@@ -154,16 +154,6 @@ Contributing to
 ## 📈 GitHub Statistics <p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" /> </p> ---
 
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LalitNarayanYadav&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
