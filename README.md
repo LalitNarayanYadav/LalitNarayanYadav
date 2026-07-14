@@ -151,7 +151,9 @@ Contributing to
 
 ---
 
-## 📈 GitHub Statistics <p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" /> </p> ---
+## 📈 GitHub Statistics <p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" /> </p> 
+
+---
 
 
 # 📊 Contribution Graph
