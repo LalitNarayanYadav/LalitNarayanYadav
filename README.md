@@ -151,32 +151,12 @@ Contributing to
 
 ---
 
-## 📈 GitHub Statistics <p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" /> </p> 
+# 📈 GitHub Statistics
 
----
-
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LalitNarayanYadav&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LalitNarayanYadav/LalitNarayanYadav/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LalitNarayanYadav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitNarayanYadav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 # 📚 Currently Learning
