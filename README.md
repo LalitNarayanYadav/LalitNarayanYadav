@@ -30,6 +30,7 @@
 - RF & Communication Systems
 - Signal Processing
 - Hardware Acceleration
+- Web Development
 - Open Source Development
 
 📄 **IEEE Published Author**
