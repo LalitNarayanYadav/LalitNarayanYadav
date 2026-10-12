@@ -4,6 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Lalit%20Narayan%20Yadav&fontAlign=50&fontAlignY=38&fontSize=42&animation=fadeIn&desc=Electronics%20Engineer%20|%20IEEE%20Published%20Author%20|%20Open%20Source%20Contributor&descAlignY=58"/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;IEEE+Published+Author;Embedded+Systems+Developer;Semiconductor+Design+Enthusiast;Open+Source+Contributor;Building+Hardware+%2B+Software" />
 
 <p>
